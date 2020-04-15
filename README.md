@@ -1,4 +1,4 @@
-#Some Git commands
+# Some Git commands
 
 git add .
 git status 
