@@ -36,3 +36,11 @@ git push -u origin master
 
 git push
 ```
+
+# PostgreSQL Commands tutorial
+
+
+### This is sample tutorial for [PostgreSQL](https://www.postgresql.org/) Database basic commands
+```
+
+```
