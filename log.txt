@@ -12,3 +12,11 @@ git add .
 git commit -m 'commands1'
 git checkout master
 
+git merge 'commands'
+git add . 
+git commit -m 'new'
+git merge 'commands'
+git remote add origin https://github.com/LeonMaze/PostgreSQL.git
+git remote
+ git push -u origin master
+ 
