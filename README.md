@@ -21,3 +21,5 @@ git merge 'commands'
 git remote add origin https://github.com/LeonMaze/PostgreSQL.git
 git remote
 git push -u origin master
+
+git push
