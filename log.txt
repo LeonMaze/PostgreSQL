@@ -10,4 +10,5 @@ git checkout commands
 touch commands1.txt
 git add .
 git commit -m 'commands1'
-git checkout master 
+git checkout master
+
