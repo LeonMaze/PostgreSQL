@@ -1,0 +1,13 @@
+git add .
+git status 
+git commit -m 'CHanged md file'
+
+git branch commands
+git commit -m 'changed branch'
+
+git checkout commands
+touch commands1.txt 
+git commit -m 'commands1'
+clear
+
+#switch back to master
