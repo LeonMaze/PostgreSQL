@@ -1,1 +1,23 @@
-New1
+#Some Git commands
+
+git add .
+git status 
+git commit -m 'CHanged md file'
+
+git branch commands
+git add .
+git commit -m 'changed branch' 
+git checkout commands 
+
+touch commands1.txt
+git add .
+git commit -m 'commands1'
+git checkout master
+
+git merge 'commands'
+git add . 
+git commit -m 'new'
+git merge 'commands'
+git remote add origin https://github.com/LeonMaze/PostgreSQL.git
+git remote
+git push -u origin master
