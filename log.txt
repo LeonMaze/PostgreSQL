@@ -1,0 +1,5 @@
+git add .
+git status 
+git commit -m 'CHanged md file'
+
+git branch commands
