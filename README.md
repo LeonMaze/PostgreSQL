@@ -1,8 +1,8 @@
 # Some Git commands
 ### add new folder and file
 ```
-git touch folder1
-git mkdir folder1/log1.txt
+touch folder1
+mkdir folder1/log1.txt
 git add .
 git status 
 git commit -m 'CHanged md file'
